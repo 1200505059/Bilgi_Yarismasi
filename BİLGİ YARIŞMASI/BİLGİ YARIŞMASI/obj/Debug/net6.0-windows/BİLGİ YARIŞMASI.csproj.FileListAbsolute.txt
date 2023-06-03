@@ -1,0 +1,18 @@
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\bin\Debug\net6.0-windows\BİLGİ YARIŞMASI.exe
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\bin\Debug\net6.0-windows\BİLGİ YARIŞMASI.deps.json
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\bin\Debug\net6.0-windows\BİLGİ YARIŞMASI.runtimeconfig.json
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\bin\Debug\net6.0-windows\BİLGİ YARIŞMASI.dll
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\bin\Debug\net6.0-windows\BİLGİ YARIŞMASI.pdb
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ YARIŞMASI.csproj.AssemblyReference.cache
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ_YARIŞMASI.Form1.resources
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ_YARIŞMASI.Properties.Resources.resources
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ YARIŞMASI.csproj.GenerateResource.cache
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ YARIŞMASI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ YARIŞMASI.AssemblyInfoInputs.cache
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ YARIŞMASI.AssemblyInfo.cs
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ YARIŞMASI.csproj.CoreCompileInputs.cache
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ YARIŞMASI.dll
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\refint\BİLGİ YARIŞMASI.dll
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ YARIŞMASI.pdb
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\BİLGİ YARIŞMASI.genruntimeconfig.cache
+C:\Users\cakma\OneDrive\Masaüstü\C#\BİLGİ YARIŞMASI\BİLGİ YARIŞMASI\obj\Debug\net6.0-windows\ref\BİLGİ YARIŞMASI.dll
